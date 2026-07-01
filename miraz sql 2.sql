@@ -1,4 +1,4 @@
-// anything with date is important for onlone 
+// anything with date is important for online 
 -- TABLE CREATION
 
 CREATE TABLE CSE_STUDENTS (
